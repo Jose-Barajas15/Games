@@ -1,2 +1,2 @@
 # Games
-Google Sites Game Client
+Hello and welcome! Made By Jose B.
